@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Terms and Conditions](./)
+* [Terms and Conditions](terms-and-conditions.md)
 * [Privacy Policy](privacy-policy.md)
 * [Information Security](information-security.md)
 * [Responsible Disclosure](responsible-disclosure.md)
