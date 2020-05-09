@@ -18,5 +18,5 @@ Should our systems get compromised we’ll shut down the service until we can fi
 
 ### What should I do if I find a security vulnerability in a Sprouted service?
 
-Please visit our responsible disclosure page.
+Please visit our [responsible disclosure](responsible-disclosure.md) page.
 

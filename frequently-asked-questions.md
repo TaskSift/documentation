@@ -6,11 +6,11 @@ Azure DevOps, DoneDone \(Classic and 2\), GitHub, Jira Software, Trello, and Zen
 
 **How secure is TaskSift?**
 
-We've put considerable effort into making Sprouted secure. Check out our [Information Security](https://tasksift.com/faq#) page for details.
+We've put considerable effort into making Sprouted secure. Check out our [Information Security](information-security.md) page for details.
 
 **Do you have a responsible disclosure policy?**
 
-Yes, it can be found [here](https://tasksift.com/faq#).
+Yes, it can be found [here](responsible-disclosure.md).
 
 **Is TaskSift available in other languages than English?**
 
@@ -23,12 +23,4 @@ Yes, you don't even need to contact support for that although we're glad to assi
 **Can I export my data if I decide to stop using TaskSift?**
 
 Yes, just let us know which data format you prefer and we'll provide a downloadable file with all your data.
-
-**How do I sign in?**
-
-See https://TODO
-
-**How do I reset my password?**
-
-See https://TODO
 

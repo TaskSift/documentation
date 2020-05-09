@@ -6,7 +6,7 @@ description: Effective as of 8 May 2020
 
 When using the TaskSift service \(hereinafter "Service"\) provided by the company Releasewise B.V. \(hereinafter "Releasewise"\) registered with the Dutch Chamber of Commerce under number 75862751, you agree to the following Terms and Conditions. If you are entering into this agreement on behalf of a company or another legal entity, you affirm that you have the authority to bind such entity, its affiliates and all users who access the Service through your account to these Terms and Conditions. In this case "you" or "your" shall refer to such entity, its affiliates and all users associated with it.
 
-Releasewise reserves the right to alter the following Terms and Conditions at all times with or without notice. The latest version of the Terms and Conditions can be found at: [https://docs.tasksift.com/FIXME](https://docs.tasksift.com/FIXME).
+Releasewise reserves the right to alter the following Terms and Conditions at all times with or without notice.
 
 ### General
 
@@ -65,7 +65,9 @@ Releasewise reserves the right to alter the following Terms and Conditions at al
 * You will not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service.
 * You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements or concepts of the Service without express written permission from Releasewise.
 * You must not transmit any worms or viruses or any code of a destructive nature.
-* Releasewise strives to achieve, but does not warrant, that: 1\) The Service will meet your requirements, 2\) the Service will be uninterrupted, timely, secure, and error-free.
+* Releasewise strives to achieve, but does not warrant, that:
+  * 1\) The Service will meet your requirements.
+  * 2\) the Service will be uninterrupted, timely, secure, and error-free.
 * You are responsible for not submitting sensitive data to the Service, including but not limited to credit card information, medical files or anything deemed confidential. The Service offers ways to sanitize the data submitted to the Service.
 
 Questions about the Terms and Conditions may be directed to the email address [support@tasksift.com](mailto:support@tasksift.com).
