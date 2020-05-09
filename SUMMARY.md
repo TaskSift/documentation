@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Terms and Conditions](README.md)
+* [Table of Contents](README.md)
+* [Terms and Conditions](terms-and-conditions.md)
 * [Privacy Policy](privacy-policy.md)
 * [Information Security](information-security.md)
-* [Frequently Asked Questions](frequently-asked-questions.md)
 * [Responsible Disclosure](responsible-disclosure.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
 
