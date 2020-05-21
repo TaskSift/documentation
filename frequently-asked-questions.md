@@ -1,8 +1,12 @@
 # Frequently Asked Questions
 
+**Which apps integrate with TaskSift?**
+
+Azure DevOps, DoneDone \(Classic and 2\), GitHub, Jira Software, Trello, and Zendesk. We're working on adding support for Airtable, Asana, Basecamp, Gitlab, and Pivotal Tracker. [Let us know](https://tasksift.canny.io/) which other tools we should support!
+
 **How secure is TaskSift?**
 
-We've put considerable effort into making TaskSift secure. Check out our [Information Security](information-security.md) page for details.
+We've put considerable effort into making Sprouted secure. Check out our [Information Security](information-security.md) page for details.
 
 **Do you have a responsible disclosure policy?**
 

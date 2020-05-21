@@ -32,7 +32,7 @@ Releasewise reserves the right to alter the following Terms and Conditions at al
 
 ### Termination
 
-* You are solely responsible for properly canceling your account, which you can do in the "Account" section of the Service only. Any other form of cancellation is not accepted and therefore not processed.
+* You are solely responsible for properly canceling your account, which you can do in the "Admin" section of the Service only. Any other form of cancellation is not accepted and therefore not processed.
 * If you cancel your account before the end of your current paid up month or year, your cancellation will take effect at the end of that period and you will not be charged again.
 * All of your content will be immediately deleted from the Service upon cancellation. This information can not be recovered once your account is cancelled.
 * You are at all times responsible for any legal obligation to keep your invoices, even after canceling your account.
@@ -49,7 +49,7 @@ Releasewise reserves the right to alter the following Terms and Conditions at al
 
 ### Liability
 
-* Your use of the Service is at your sole risk. Releasewise shall not be liable for any direct or indirect damages including but not limited to, consequential damages, lost profits, lost savings, and damage due to business stagnation.
+* Your use of the Service is at your sole risk. Releasewise shall not be liable for any direct or indirect damages including but not limited to, consequential damages, lost profits, lost savings and damage due to business stagnation.
 * You shall indemnify Releasewise against all claims for damages which third parties may claim in respect of damage caused by the use of the services or products supplied by Releasewise.
 
 ### Applicable law and disputes
@@ -66,7 +66,7 @@ Releasewise reserves the right to alter the following Terms and Conditions at al
 * You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements or concepts of the Service without express written permission from Releasewise.
 * You must not transmit any worms or viruses or any code of a destructive nature.
 * Releasewise strives to achieve, but does not warrant, that:
-  * 1\) the Service will meet your requirements.
+  * 1\) The Service will meet your requirements.
   * 2\) the Service will be uninterrupted, timely, secure, and error-free.
 * You are responsible for not submitting sensitive data to the Service, including but not limited to credit card information, medical files or anything deemed confidential. The Service offers ways to sanitize the data submitted to the Service.
 

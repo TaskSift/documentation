@@ -6,7 +6,7 @@ Each of our Services has a single database for all of that Service users' data. 
 
 ### How are you protecting my data from hacker attacks?
 
-Security is one of the main reasons we chose [Heroku](https://www.heroku.com/) \(a wholly-owned subsidiary of [Salesforce](https://developer.salesforce.com/platform/heroku)\) as the infrastructure provider for our Sprouted Services.
+Security is one of the main reasons we chose [Heroku](https://www.heroku.com/) \(a wholly-owned subsidiary of [Salesforce](https://developer.salesforce.com/platform/heroku)\) as the infrastructure provider for our TaskSift Services.
 
 To see all the steps Heroku takes to protect the data saved on its services, take a look at their extensive [security page](https://www.heroku.com/policy/security). It’s what makes us sleep well at night.
 
