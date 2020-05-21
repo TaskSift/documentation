@@ -10,13 +10,13 @@ Security is one of the main reasons we chose [Heroku](https://www.heroku.com/) \
 
 To see all the steps Heroku takes to protect the data saved on its services, take a look at their extensive [security page](https://www.heroku.com/policy/security). It’s what makes us sleep well at night.
 
-We also have our own practices in place, which follow the industry’s best practices. We only give access to our servers to senior Sprouted security experts, we keep our servers always up to date with security fixes, have one-click ways to take down servers should they become infected/compromised and to create and deploy new clean ones, we have an automated suite of tests against cyber attacks, we use 2-factor authentication whenever possible, and more.
+We also have our own practices in place, which follow the industry’s best practices. We only give access to our servers to senior TaskSift security experts, we keep our servers always up to date with security fixes, have one-click ways to take down servers should they become infected/compromised and to create and deploy new clean ones, we have an automated suite of tests against cyber attacks, we use 2-factor authentication whenever possible, and more.
 
 Our Services have never been compromised so far.
 
 Should our systems get compromised we’ll shut down the service until we can fix the vulnerability. We will also hire outside experts to help us and verify that we’re safe to resume service.
 
-### What should I do if I find a security vulnerability in a Sprouted service?
+### What should I do if I find a security vulnerability in a TaskSift service?
 
 Please visit our [responsible disclosure](responsible-disclosure.md) page.
 

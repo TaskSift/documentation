@@ -8,16 +8,14 @@ description: Effective as of 8 May 2020
 
 This privacy statement will inform you of the processing of your personal data on the [TaskSift website](https://tasksift.com) which is offered as "Software as a Service \(SaaS\)" by Releasewise B.V. \(“Releasewise”\). TaskSift offers a unified "inbox" to product makers to manage product input provided by users.
 
-We understand that you wish to protect your privacy and your personal data. We know the protection and security hereof is important to you. We will always process your personal data in accordance with the applicable laws and regulations concerning data protection, such as the General Data Protection Regulation and the Dutch Telecommunications Act. This privacy statement informs you of the way in which we collect, process and protect your personal data, for what purposes and on which legal grounds.
+We understand that you wish to protect your privacy and your personal data. We know the protection and security hereof is important to you. We will always process your personal data in accordance with the applicable laws and regulations concerning data protection, such as the General Data Protection Regulation \(GDPR\) and the Dutch Telecommunications Act. This privacy statement informs you of the way in which we collect, process, and protect your personal data, for what purposes and on which legal grounds.
 
 When using our website, Releasewise will be qualified as the data controller concerning your personal data. If a company makes use of our services, we act solely as data processor. For more information about the processing of your personal data via applications of our customers, we refer you to the privacy statement of the respective companies.
 
 The general details of Releasewise:
 
 Releasewise B.V. \(75862751\)  
-Borgerderstraat 8 9527 TD  
-Bronneger  
-The Netherlands  
+Borgerderstraat 8 9527 TD, Bronneger, The Netherlands  
 [support@tasksift.com](mailto:support@tasksift.com)
 
 We will not process your personal data for any other purposes than stated in this privacy statement. Your personal data will not be retained any longer than is necessary for the purposes for which the data was collected, unless further processing of your data is required by any data protection laws and regulations.
@@ -38,9 +36,9 @@ In addition hereto, we can send you the necessary emails about your account or p
 
 #### Your account
 
-You can sign up via our website to try out our TaskSift service free for 14 days. During the sign up process we ask you to fill in your name, your email address and a password. Please keep the combination of your email address and this password a secret.
+You can sign up via our website to try out our TaskSift service free for 14 days. During the sign up process we ask you to fill in your name, your email address and a password. Please keep the combination of your email address and this password secret.
 
-We also provide the possibility to sign in with an account provided by GitHub, GitLab, Google or Microsoft, For more information about the processing of personal data by these services, we refer you to their respective privacy statements.
+We also provide the possibility to sign in with an account provided by GitHub, GitLab, Google, or Microsoft, For more information about the processing of personal data by these services, we refer you to their respective privacy statements.
 
 #### Live chat
 
