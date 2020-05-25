@@ -5,4 +5,5 @@
 * [Information Security](information-security.md)
 * [Responsible Disclosure](responsible-disclosure.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
+* [Markdown Cheat Sheet](markdown-cheat-sheet.md)
 
