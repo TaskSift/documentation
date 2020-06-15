@@ -14,15 +14,11 @@ description: 'Overview of alpha, beta, and live integrations'
   <tbody>
     <tr>
       <td style="text-align:left">Asana</td>
-      <td style="text-align:left">&#x3B2;eta</td>
+      <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
       <td style="text-align:left">Azure DevOps</td>
-      <td style="text-align:left">
-        <p>{% hint style=&quot;info&quot; %}</p>
-        <p>Live</p>
-        <p>{% end hint %}</p>
-      </td>
+      <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
       <td style="text-align:left">Canny.io</td>
@@ -31,8 +27,10 @@ description: 'Overview of alpha, beta, and live integrations'
     <tr>
       <td style="text-align:left">CSV</td>
       <td style="text-align:left">
-        <p>Beta</p>
-        <p>Temporary work-around: import CSV into Google Sheets first</p>
+        <p>&#x1F6A7; Beta</p>
+        <p>Temporary work-around:</p>
+        <p>import CSV into</p>
+        <p>Google Sheets</p>
       </td>
     </tr>
     <tr>
@@ -41,7 +39,7 @@ description: 'Overview of alpha, beta, and live integrations'
     </tr>
     <tr>
       <td style="text-align:left">DoneDone 2</td>
-      <td style="text-align:left">Beta</td>
+      <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
       <td style="text-align:left">GitHub</td>
@@ -49,7 +47,7 @@ description: 'Overview of alpha, beta, and live integrations'
     </tr>
     <tr>
       <td style="text-align:left">GitLab</td>
-      <td style="text-align:left">Beta</td>
+      <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
       <td style="text-align:left">Google Sheets</td>
@@ -57,11 +55,11 @@ description: 'Overview of alpha, beta, and live integrations'
     </tr>
     <tr>
       <td style="text-align:left">Jira</td>
-      <td style="text-align:left">Beta</td>
+      <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
       <td style="text-align:left">PDF</td>
-      <td style="text-align:left">Alpha</td>
+      <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
       <td style="text-align:left">Slack</td>
@@ -73,7 +71,7 @@ description: 'Overview of alpha, beta, and live integrations'
     </tr>
     <tr>
       <td style="text-align:left">Zendesk</td>
-      <td style="text-align:left">Beta</td>
+      <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
   </tbody>
 </table>
