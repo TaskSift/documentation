@@ -21,7 +21,8 @@ description: 'Overview of alpha, beta, and live integrations'
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
-      <td style="text-align:left">Canny.io</td>
+      <td style="text-align:left"><a href="https://tasksift.com/canny-integration">Canny.io</a>
+      </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
@@ -42,6 +43,11 @@ description: 'Overview of alpha, beta, and live integrations'
       <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
+      <td style="text-align:left"><a href="https://tasksift.com/email-integration">Email</a>
+      </td>
+      <td style="text-align:left">&#x2705; Live</td>
+    </tr>
+    <tr>
       <td style="text-align:left">GitHub</td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
@@ -50,7 +56,8 @@ description: 'Overview of alpha, beta, and live integrations'
       <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
-      <td style="text-align:left">Google Sheets</td>
+      <td style="text-align:left"><a href="https://tasksift.com/google-sheets-integration">Google Sheets</a>
+      </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
@@ -62,11 +69,13 @@ description: 'Overview of alpha, beta, and live integrations'
       <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
-      <td style="text-align:left">Slack</td>
+      <td style="text-align:left"><a href="https://tasksift.com/slack-integration">Slack</a>
+      </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
-      <td style="text-align:left">Trello</td>
+      <td style="text-align:left"><a href="https://tasksift.com/trello-integration">Trello</a>
+      </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
@@ -76,5 +85,5 @@ description: 'Overview of alpha, beta, and live integrations'
   </tbody>
 </table>
 
-
+Vote for [additional integrations here](https://tasksift.canny.io/feature-requests).
 
