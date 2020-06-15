@@ -1,5 +1,5 @@
 ---
-description: 'Overview of alpha, beta, and live integrations'
+description: Overview of beta and live integrations
 ---
 
 # Integrations
