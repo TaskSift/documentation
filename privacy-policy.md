@@ -100,7 +100,7 @@ We have implemented the appropriate technical and organizational measures to ens
 
 ### Slack
 
-TaskSift offers an integration with Slack using a so-called Slack App. The integration uses Slack's official API and the integration has been reviewed by Slack's app review team. The purpose of the integration is to send individual messages and files to TaskSift in order to repurpose content for user stories created with TaskSift. The integration can be invoked by clicking a "Send to TaskSift" button inside Slack which is available on a per message basis. TaskSift only stores the body i.e. text part of a message, or file attachment data, as well as a deeplink to the original message. Slack user IDs and channel IDs are specifically not stored.
+TaskSift offers an integration with Slack using a so-called Slack App. The integration uses Slack's official API and the integration has been reviewed by Slack's app review team. The purpose of the integration is to send individual messages and files to TaskSift in order to repurpose content for user stories created with TaskSift. As part of the installation process TaskSift stores an access token, user ID, and team ID of the Slack user who installs the app. If you decide to remove the Slack integration from TaskSift then this token, user ID, team ID, and all content copied from Slack to TaskSift is deleted from TaskSift. The integration can be invoked by clicking a "Send to TaskSift" button inside Slack which is available on a per message basis. TaskSift only stores the body i.e. text part of a message, or file attachment data, as well as a deeplink to the original message. The user ID inside each message is specifically not stored.
 
 ### Other
 
