@@ -29,9 +29,7 @@ description: Overview of beta and live integrations
       <td style="text-align:left">CSV</td>
       <td style="text-align:left">
         <p>&#x1F6A7; Beta</p>
-        <p>Temporary work-around:</p>
-        <p>import CSV into</p>
-        <p>Google Sheets</p>
+        <p>Tip: import CSV into Google Sheets</p>
       </td>
     </tr>
     <tr>
