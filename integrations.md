@@ -60,7 +60,7 @@ description: Overview of beta and live integrations
     </tr>
     <tr>
       <td style="text-align:left">Jira</td>
-      <td style="text-align:left">&#x1F6A7; Beta</td>
+      <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
       <td style="text-align:left">PDF</td>
