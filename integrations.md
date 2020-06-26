@@ -17,7 +17,8 @@ description: Overview of beta and live integrations
       <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
-      <td style="text-align:left">Azure DevOps</td>
+      <td style="text-align:left"><a href="https://tasksift.com/azure-devops-integration">Azure DevOps</a>
+      </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
@@ -33,7 +34,8 @@ description: Overview of beta and live integrations
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">DoneDone Classic</td>
+      <td style="text-align:left"><a href="https://tasksift.com/donedone-classic-integration">DoneDone Classic</a>
+      </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
@@ -46,11 +48,13 @@ description: Overview of beta and live integrations
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
-      <td style="text-align:left">GitHub</td>
+      <td style="text-align:left"><a href="https://tasksift.com/github-integration">GitHub</a>
+      </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
-      <td style="text-align:left">GitLab</td>
+      <td style="text-align:left"><a href="https://tasksift.com/gitlab-integration">GitLab</a>
+      </td>
       <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
     <tr>
@@ -59,8 +63,9 @@ description: Overview of beta and live integrations
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
-      <td style="text-align:left">Jira</td>
-      <td style="text-align:left">&#x2705; Live</td>
+      <td style="text-align:left"><a href="https://tasksift.com/jira-integration">Jira</a>
+      </td>
+      <td style="text-align:left">&#x1F6A7; Beta (pending approval by Atlassian)</td>
     </tr>
     <tr>
       <td style="text-align:left">PDF</td>
