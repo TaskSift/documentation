@@ -65,7 +65,7 @@ description: Overview of beta and live integrations
     <tr>
       <td style="text-align:left"><a href="https://tasksift.com/jira-integration">Jira</a>
       </td>
-      <td style="text-align:left">&#x1F6A7; Beta (pending approval by Atlassian)</td>
+      <td style="text-align:left">&#x1F6A7; Pending approval by Atlassian</td>
     </tr>
     <tr>
       <td style="text-align:left">PDF</td>
@@ -83,7 +83,7 @@ description: Overview of beta and live integrations
     </tr>
     <tr>
       <td style="text-align:left">Zendesk</td>
-      <td style="text-align:left">&#x1F6A7; Beta</td>
+      <td style="text-align:left">&#x2705; Live</td>
     </tr>
   </tbody>
 </table>
