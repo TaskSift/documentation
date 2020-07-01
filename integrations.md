@@ -82,7 +82,8 @@ description: Overview of beta and live integrations
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
-      <td style="text-align:left">Zendesk</td>
+      <td style="text-align:left"><a href="https://tasksift.com/zendesk-integration">Zendesk</a>
+      </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
   </tbody>
