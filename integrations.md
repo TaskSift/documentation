@@ -72,7 +72,7 @@ description: Overview of beta and live integrations
     <tr>
       <td style="text-align:left"><a href="https://tasksift.com/gitlab-integration">GitLab</a>
       </td>
-      <td style="text-align:left">&#x1F6A7; Beta</td>
+      <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://tasksift.com/google-sheets-integration">Google Sheets</a>
