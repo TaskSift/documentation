@@ -13,6 +13,10 @@ description: Overview of beta and live integrations
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">Airtable</td>
+      <td style="text-align:left">&#x23F0; Planned</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Asana</td>
       <td style="text-align:left">&#x1F6A7; Beta</td>
     </tr>
@@ -22,7 +26,16 @@ description: Overview of beta and live integrations
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
+      <td style="text-align:left">Basecamp</td>
+      <td style="text-align:left">&#x23F0; Planned</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://tasksift.com/canny-integration">Canny.io</a>
+      </td>
+      <td style="text-align:left">&#x2705; Live</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://tasksift.com/clubhouse-integration">Clubhouse</a>
       </td>
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
@@ -48,6 +61,10 @@ description: Overview of beta and live integrations
       <td style="text-align:left">&#x2705; Live</td>
     </tr>
     <tr>
+      <td style="text-align:left">Front</td>
+      <td style="text-align:left">&#x23F0; Planned</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="https://tasksift.com/github-integration">GitHub</a>
       </td>
       <td style="text-align:left">&#x2705; Live</td>
@@ -61,6 +78,10 @@ description: Overview of beta and live integrations
       <td style="text-align:left"><a href="https://tasksift.com/google-sheets-integration">Google Sheets</a>
       </td>
       <td style="text-align:left">&#x2705; Live</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Hackerone</td>
+      <td style="text-align:left">&#x23F0; Planned</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://tasksift.com/jira-integration">Jira</a>
@@ -80,6 +101,10 @@ description: Overview of beta and live integrations
       <td style="text-align:left"><a href="https://tasksift.com/trello-integration">Trello</a>
       </td>
       <td style="text-align:left">&#x2705; Live</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Twitter</td>
+      <td style="text-align:left">&#x23F0; Planned</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://tasksift.com/zendesk-integration">Zendesk</a>
