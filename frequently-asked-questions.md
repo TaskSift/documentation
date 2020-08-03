@@ -1,7 +1,5 @@
 # Frequently Asked Questions
 
-Back to [https://tasksift.com](https://tasksift.com) ↗︎
-
 **How secure is TaskSift?**
 
 We've put considerable effort into making TaskSift secure. Check out our [Information Security](information-security.md) page for details.

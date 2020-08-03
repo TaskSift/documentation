@@ -8,5 +8,3 @@
 * [Responsible Disclosure](responsible-disclosure.md)
 * [Terms and Conditions](terms-and-conditions.md)
 
-Back to [https://tasksift.com](https://tasksift.com) ↗︎
-

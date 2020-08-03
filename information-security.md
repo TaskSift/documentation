@@ -1,7 +1,5 @@
 # Information Security
 
-Back to [https://tasksift.com](https://tasksift.com) ↗︎
-
 ### How is my data protected from another customer’s data?
 
 Each of our Services has a single database for all of that Service users' data. We use software best practices to guarantee that only people who you designate as viewers of your data can access it. In other words, we segment our customer data via software. We do our best and are very confident we’re doing a good job at it, but, like every other web app that hosts their customers data on the same database, cannot guarantee that a sophisticated hacker cannot access other people's data.
