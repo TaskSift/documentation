@@ -1,8 +1,6 @@
----
-description: 'Back to https://tasksift.com'
----
-
 # Table of Contents
+
+Back to [https://tasksift.com](https://tasksift.com) ↗︎
 
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Information Security](information-security.md)
