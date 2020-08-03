@@ -1,7 +1,5 @@
 # Table of Contents
 
-Back to [https://tasksift.com](https://tasksift.com) ↗︎
-
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Information Security](information-security.md)
 * [Integrations](integrations.md)
@@ -9,4 +7,6 @@ Back to [https://tasksift.com](https://tasksift.com) ↗︎
 * [Privacy Policy](privacy-policy.md)
 * [Responsible Disclosure](responsible-disclosure.md)
 * [Terms and Conditions](terms-and-conditions.md)
+
+Back to [https://tasksift.com](https://tasksift.com) ↗︎
 

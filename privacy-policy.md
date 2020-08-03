@@ -4,7 +4,7 @@ description: Effective as of 8 May 2020
 
 # Privacy Policy
 
-## Privacy Policy
+Back to [https://tasksift.com](https://tasksift.com) ↗︎
 
 This privacy statement will inform you of the processing of your personal data on the [TaskSift website](https://tasksift.com) which is offered as "Software as a Service \(SaaS\)" by Releasewise B.V. \(“Releasewise”\). TaskSift offers a unified "inbox" to product makers to manage product input provided by users.
 

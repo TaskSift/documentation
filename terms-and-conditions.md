@@ -4,6 +4,8 @@ description: Effective as of 8 May 2020
 
 # Terms and Conditions
 
+Back to [https://tasksift.com](https://tasksift.com) ↗︎
+
 When using the TaskSift service \(hereinafter "Service"\) provided by the company Releasewise B.V. \(hereinafter "Releasewise"\) registered with the Dutch Chamber of Commerce under number 75862751, you agree to the following Terms and Conditions. If you are entering into this agreement on behalf of a company or another legal entity, you affirm that you have the authority to bind such entity, its affiliates and all users who access the Service through your account to these Terms and Conditions. In this case "you" or "your" shall refer to such entity, its affiliates and all users associated with it.
 
 Releasewise reserves the right to alter the following Terms and Conditions at all times with or without notice.

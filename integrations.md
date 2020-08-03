@@ -4,6 +4,8 @@ description: Overview of beta and live integrations
 
 # Integrations
 
+Back to [https://tasksift.com](https://tasksift.com) ↗︎
+
 <table>
   <thead>
     <tr>
