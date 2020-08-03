@@ -8,5 +8,5 @@
 * [Privacy Policy](privacy-policy.md)
 * [Responsible Disclosure](responsible-disclosure.md)
 * [Terms and Conditions](terms-and-conditions.md)
-* [📍 BACK TO TASKSIFT.COM](https://tasksift.com)
+* [🟢 BACK TO TASKSIFT.COM](https://tasksift.com)
 
