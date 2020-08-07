@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Changelog](changelog.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Information Security](information-security.md)
 * [Integrations](integrations.md)
